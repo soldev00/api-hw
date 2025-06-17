@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(to right, blue, red);
+}
+
+button {
+  background: linear-gradient(to right, blue, red);
+  display: flex;
+  padding: 20px;
+}
+
+.show-user {
+  color: wheat;
+  height: 100%;
+  width: 50%;
+  font-size: 1.6rem;
+}
+
+.show-title {
+  color: wheat;
+  height: 100%;
+  width: 50%;
+  font-size: 1.6rem;
+}
+
+div {
+  color: wheat;
+}
